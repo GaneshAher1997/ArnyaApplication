@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Drink More water"
+    },
+    {
+        "id": 2,
+        "name": "Exercise Regularly"
+    },
+    {
+        "id": 3,
+        "name": "Avoid oily food"
+    },
+    {
+        "id": 4,
+        "name": "Eat leaf vegetables"
+    },
+    {
+        "id": 5,
+        "name": "Get 8 Hours of sleep"
+    },
+    {
+        "id": 6,
+        "name": "Eat more fruits"
+    },
+    {
+        "id": 7,
+        "name": "Apply olive oil around stomach"
+    },
+    {
+        "id": 8,
+        "name": "Eat more snacks"
+    },
+    {
+        "id": 9,
+        "name": "Avoid oily cheeze"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Bloating"
+    },
+    {
+        "id": 2,
+        "name": "Pain"
+    },
+    {
+        "id": 3,
+        "name": "Back Pain"
+    },
+    {
+        "id": 4,
+        "name": "Throat Irritation"
+    },
+    {
+        "id": 5,
+        "name": "Dyslipidemia"
+    },
+    {
+        "id": 6,
+        "name": "Anxiety"
+    },
+    {
+        "id": 7,
+        "name": "Aneamia"
+    },
+    {
+        "id": 8,
+        "name": "Acidity"
+    },
+    {
+        "id": 9,
+        "name": "Weight loss"
+    },
+    {
+        "id": 10,
+        "name": "Dyspnea"
+    },
+    {
+        "id": 12,
+        "name": "Lowback pain"
+    },
+    {
+        "id": 13,
+        "name": "Knee Pain"
+    },
+    {
+        "id": 14,
+        "name": "Lower limb pain"
+    },
+    {
+        "id": 15,
+        "name": "Tiredness"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "name": "Standard"
+    },
+    {
+        "id": 2,
+        "name": "Quarantine"
+    },
+    {
+        "id": 3,
+        "name": "Pres Shipment"
+    },
+    {
+        "id": 4,
+        "name": "Routine"
+    }
+]

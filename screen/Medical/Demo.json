@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Hypertension"
+    },
+    {
+        "id": 2,
+        "name": "Diabete..."
+    },
+    {
+        "id": 3,
+        "name": "Hypothyroidism"
+    },
+    {
+        "id": 4,
+        "name": "Covid Positive"
+    },
+    {
+        "id": 5,
+        "name": "Dyslipidemia"
+    },
+    {
+        "id": 6,
+        "name": "Viral Fever"
+    },
+    {
+        "id": 7,
+        "name": "Aneamia"
+    },
+    {
+        "id": 8,
+        "name": "Chroni..."
+    },
+    {
+        "id": 9,
+        "name": "Apd"
+    },
+    {
+        "id": 10,
+        "name": "Ischemic Hea..."
+    },
+    {
+        "id": 11,
+        "name": "Anxiety"
+    },
+    {
+        "id": 12,
+        "name": "Urinary Tra..."
+    },
+    {
+        "id": 13,
+        "name": "Low..."
+    },
+    {
+        "id": 14,
+        "name": "Gastritis"
+    },
+    {
+        "id": 15,
+        "name": "Obesity"
+    }
+]

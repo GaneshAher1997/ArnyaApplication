@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "name": "Fever"
+    },
+    {
+        "id": 2,
+        "name": "Cough"
+    },
+    {
+        "id": 3,
+        "name": "Weakness"
+    },
+    {
+        "id": 4,
+        "name": "Hedache"
+    },
+    {
+        "id": 5,
+        "name": "Cold"
+    },
+    {
+        "id": 6,
+        "name": "Body ache"
+    },
+    {
+        "id": 7,
+        "name": "Abdominal pain"
+    },
+    {
+        "id": 8,
+        "name": "Nausea"
+    },
+    {
+        "id": 9,
+        "name": "Vomiting"
+    },
+    {
+        "id": 10,
+        "name": "Giddiness"
+    },
+    {
+        "id": 11,
+        "name": "Chest Pain"
+    },
+    {
+        "id": 12,
+        "name": "Reduce"
+    },
+    {
+        "id": 13,
+        "name": "Throat Pain"
+    },
+    {
+        "id": 14,
+        "name": "Loose Motion"
+    },
+    {
+        "id": 15,
+        "name": "Breathlessness"
+    },
+    {
+        "id": 16,
+        "name": "Chills"
+    },
+    {
+        "id": 17,
+        "name": "Dry cough"
+    },
+    {
+        "id": 18,
+        "name": "Sore throat"
+    },
+    {
+        "id": 19,
+        "name": "Anorexia"
+    },
+    {
+        "id": 20,
+        "name": "Vertigo"
+    },
+    {
+        "id": 21,
+        "name": "Fatigue"
+    },
+    {
+        "id": 22,
+        "name": "Insomnia"
+    }
+]
